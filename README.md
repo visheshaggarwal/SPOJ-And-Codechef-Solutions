@@ -1,1 +1,1 @@
-# SPOJ-solutions
+# SPOJ-And-Codechef-Solutions
